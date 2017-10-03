@@ -4,5 +4,13 @@
     "lowsec": "1.75",
     "zerosec": "3"
   },
+  "limits": {
+    "freighters": "12000000.0",
+    "jumpfreighters": "132000.0",
+    "dst": "60000.0",
+    "br": "60000.0",
+    "frigate": "400.0",
+    "bestsplit": "60000.0"
+  },
   "rushdelivery": "2"
 }
