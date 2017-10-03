@@ -1,2 +1,3 @@
-# eh-basedata
+# Base data for calculations on eve-hauling
 
+still tbd
