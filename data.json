@@ -1,0 +1,8 @@
+{
+  "costsperjump": {
+    "highsec": "0.8",
+    "lowsec": "1.75",
+    "zerosec": "3"
+  },
+  "rushdelivery": "2"
+}
