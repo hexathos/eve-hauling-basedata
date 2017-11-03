@@ -1,7 +1,7 @@
 {
   "weigths": {
       "rushdelivery": "3.0",
-      "heighsec": "1.0",
+      "highsec": "1.0",
       "lowsec": "1.75",
       "zerospace": "3.0"
   }
